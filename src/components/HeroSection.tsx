@@ -48,9 +48,12 @@ export default function HeroSection() {
           Map-based discovery. Less biased algorithms. Real underground music.
         </p>
 
-        <button className="mt-8 px-8 py-3 border border-white text-white hover:bg-white hover:text-black transition-all duration-300">
-          Recommend Me Something
-        </button>
+        <a
+          href="#waitlist"
+          className="mt-8 px-8 py-3 border border-white text-white hover:bg-white hover:text-black transition-all duration-300"
+        >
+          Join Waitlist
+        </a>
       </div>
     </section>
   );

@@ -1,0 +1,6 @@
+node_modules
+dist
+launchwebsite-main
+.git
+.gitignore
+npm-debug.log

@@ -6,6 +6,7 @@ import FeaturesSection from "@/components/FeaturesSection";
 import MerchSection from "@/components/MerchSection";
 import AboutSection from "@/components/AboutSection";
 import Footer from "@/components/Footer";
+import WaitlistSection from "@/components/WaitlistSection";
 
 const Index = () => (
   <>
@@ -17,6 +18,7 @@ const Index = () => (
       <FeaturesSection />
       <MerchSection />
       <AboutSection />
+      <WaitlistSection />
     </main>
     <Footer />
   </>
